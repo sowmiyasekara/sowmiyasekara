@@ -5,8 +5,8 @@
   </a>
 </p>
 
-<h1 align="center" style="font-weight:800; font-size: 2.8rem; margin-bottom: 0;">Bharanitharan K R</h1>
-<h3 align="center" style="font-weight:500; color:#00FFFF;">Founder & CTO of Young-Frames | UI/UX Designer & Software Engineer</h3>
+<h1 align="center" style="font-weight:800; font-size: 2.8rem; margin-bottom: 0;">SOWMIYA G</h1>
+<h3 align="center" style="font-weight:500; color:#00FFFF;">Software Developer</h3>
 <p align="center" style="font-style: italic;">Crafting intelligent interfaces that bridge creativity and technology.</p>
 
 ---
@@ -17,8 +17,8 @@
 <td width="58%" valign="top">
 
 <h2>About Me</h2>
-I’m Bharanitharan, a final-year B.Tech IT student passionate about blending design and technology to create impactful digital experiences.
-With 5 internships across UI/UX and product design, and as the Founder & CTO of Young-Frames, I’ve built products that connect creativity with real-world usability.
+I’m Sowmiya, a final-year B.Tech IT student passionate about blending design and technology to create impactful digital experiences.
+With 2 internships across Full stack web development , I’ve built products that connect creativity with real-world usability.
 I love crafting interfaces that are not only functional but emotionally engaging — where design meets precision.
 
 <br>
